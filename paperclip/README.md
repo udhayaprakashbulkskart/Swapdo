@@ -34,9 +34,6 @@ npx paperclipai@latest onboard --yes
 
 # 2. In a second terminal, from this repo's root, import the SWAPDO company
 npx paperclipai company import ./paperclip/swapdo-company
-
-#    Or straight from GitHub, without cloning:
-npx paperclipai company import udhayapragu/swapdo/paperclip/swapdo-company
 ```
 
 Then in the Paperclip UI:
